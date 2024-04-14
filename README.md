@@ -6,7 +6,7 @@
 
 
 ### Representitive Results
-![representive_results](img/Image.jpg)
+![representive_results](img/img.png)
 
 ### Training process
 ```run 'train.py'```

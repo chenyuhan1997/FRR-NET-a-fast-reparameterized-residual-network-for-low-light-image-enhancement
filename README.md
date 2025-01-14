@@ -4,7 +4,7 @@
    <a href="https://github.com/chenyuhan1997/PED/"><img src="https://img.shields.io/badge/Project-PED-black" /></a>&emsp;
 </p>
 
-# :fire: FRR-NET-a-fast-reparameterized-residual-network-for-low-light-image-enhancement
+# :fire: FRR-NET: A Fast Reparameterized Residual Network for Low-light Image Enhancement
 
 - :star: - [PAPER](https://link.springer.com/article/10.1007/s11760-024-03127-y)
 - :star: - [DATESET  LOL](https://daooshee.github.io/BMVC2018website/)  [DATESET  FIVEK](https://data.csail.mit.edu/graphics/fivek/) 
